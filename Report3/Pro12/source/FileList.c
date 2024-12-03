@@ -1,4 +1,3 @@
-/*      작성자: 박상현      */
 #include "FileList.h"
 
 void FileList(char *path){
